@@ -1,0 +1,293 @@
+.home
+{
+    background-image: url(./images/IN-en-20220919-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    height: 800px;
+   
+}
+.header
+{
+    display: flex;
+    justify-content: space-between;
+}
+#img-logo
+{
+    margin-top: -25px;
+    margin-left: 50px;
+}
+#sign-in select
+{
+    color: #737373;
+    background-color: black;
+    border: 1px solid;
+    height: 40px;
+    width: 80px;
+    margin-top: 40px;
+    margin-left: -300px;
+}
+#sign-in a
+{
+    border: 0px solid;
+    color: white;
+    padding: 15px 15px;
+    text-decoration: none;
+    background-color: red;
+    margin-left: 50px;
+}
+
+.main h1
+{
+    color: white;
+    font-size: 70px;
+    width: 700px;
+    margin-top: 150px;
+    text-align: center;
+    margin-left: 400px;
+}
+.main h2
+{
+    color: white;
+    font-size: 28px;
+    margin-left: 550px;
+    margin-top: -40px;
+}
+.main h3
+{
+    color: white;
+    margin-left: 450px;
+    margin-top: -5px;
+}
+.main input
+{
+    height: 70px;
+    width: 500px;
+    color: black;
+    background-color: white;
+    margin-left: 350px;
+}
+.main a 
+{
+    border: 0px solid;
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    font-size: 35px;
+    padding: 12px 20px 25px 20px;
+    margin-left: -2px;
+}
+
+.vid-p
+{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.95);
+    height: 500px;
+}
+#vid-c h1
+{
+    font-size: 40px;
+    color: white;
+    margin-top: 150px;
+}
+#vid-c h2
+{
+    color: white;
+    width: 450px;
+}
+.video
+{
+    margin-left: 50px;
+}
+.video img
+{
+    background-repeat: no-repeat;
+    position: absolute;
+}
+.video video
+{
+    position: relative;
+    padding-top: 90px;
+    padding-left: 70px;
+}
+
+.sd h1 
+{
+    color: white;
+    font-size: 20px;
+}
+.sd h2
+{
+    font-size: 15px;
+    color: blue;
+}
+.std 
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    border: 1px solid grey;
+    border-radius: 10px;
+    width: 350px;
+    position: relative;
+    margin-left: 90px;
+    margin-top: 300px;
+}
+.std-img2
+{
+    position: absolute;
+}
+.std44
+{
+    margin-left: 200px;
+    margin-top: 60px;
+}
+.std44 h1
+{
+    color: white;
+   font-size: 50px; 
+   width: 500px;
+}
+.std44 h2
+{
+    color: white;
+    font-size: 30px;
+    width: 600px;
+    margin-top: -25px;
+}
+.std-main
+{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    height: 500px;
+}
+
+.video2 img
+{
+    background-repeat: no-repeat;
+    position: absolute;
+}
+.video2 video
+{
+    position: relative;
+    padding-top: 50px;
+    padding-left: 120px;
+}
+.std4
+{
+    margin-left: 80px;
+    margin-top: 60px;
+}
+.std4 h1
+{
+    color: white;
+   font-size: 50px; 
+   width: 500px;
+}
+.std4 h2
+{
+    color: white;
+    font-size: 30px;
+    width: 600px;
+    margin-top: -25px;
+}
+
+.footer h1
+{
+    color: white;
+    font-size: 50px;
+    margin-left: 400px;
+}
+.footer ul
+{
+    list-style-type: none;
+}
+.footer button
+{
+    border: 0px;
+    background-color: #303030;
+    color: white;
+    font-size: 25px;
+    padding-left: 20px;
+    border-radius: 10px;
+    height: 70px;
+    width: 800px;
+    text-align: left;
+    margin-left: 300px;
+}
+.footer li
+{
+    margin-top: 10px;
+}
+.footer-p
+{
+    margin-top: 50px;
+}
+.footer-p h3
+{
+    color: white;
+    margin-left: 450px;
+    margin-top: -5px;
+}
+.footer-p input
+{
+    height: 70px;
+    width: 500px;
+    color: black;
+    background-color: white;
+    margin-left: 350px;  
+}
+.footer-p a
+{
+    border: 0px solid;
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    font-size: 35px;
+    padding: 12px 20px 25px 20px;
+    margin-left: -2px;
+}
+.footer
+{
+    background-color: black;
+    height: 900px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.footer2
+{
+    background-color: black;
+    height: 500px;
+    padding-top: 70px;
+}
+
+.footer2 p
+{
+    font-size: 20px;
+    margin-left: 240px;
+    color: #737373;
+}
+.footer2 ul 
+{
+    list-style-type: none;
+}
+#ul-li 
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+#ul-li div li
+{
+    font-size: 15px;
+    margin-top: 10px;
+    color: #737373;
+}
+.footer2 select
+{
+    color: #737373;
+    background-color: black;
+    border: 1px solid;
+    height: 40px;
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 240px;   
+}
